@@ -60,8 +60,6 @@ colourPicker("white",f"{username:^40}")
 colourPicker("white",f"{password:^40}")
 
 
-
-
 #Version 2
 def colourPicker(color):
   if color=="red":
